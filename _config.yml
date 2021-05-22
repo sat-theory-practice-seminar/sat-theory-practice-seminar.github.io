@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 gem "github-pages", group: :jekyll_plugins
-title: Waterloo ML+Logic Colloquium
+title: Theory and Practice of Solvers Online Seminars
 show_downloads: true
